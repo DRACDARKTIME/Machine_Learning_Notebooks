@@ -1,0 +1,14 @@
+name: ML-Notebooks
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.16
+  - pandas
+  - numpy
+  - matplotlib
+  - pathlib
+  - ipykernel
+  - seaborn
+  - scikit-learn
+prefix: /home/dracdarktime/miniconda3/envs/ML-Notebooks
